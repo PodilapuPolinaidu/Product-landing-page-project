@@ -135,7 +135,7 @@ section{
   margin: 15px 0;
   align-items: center;
 }
-li{
+.product > ol > li{
   padding: 5px 0;
   font-size: 2.5vw;
 }
@@ -145,11 +145,11 @@ li{
   font-size: 100%;
   color:black;
   padding: 15px 0;
-  font-weight: 600;
+  font-weight: 900;
 }
 .product > h2{
   margin-top: 8%;
-  font-size: 4vw;
+  font-size: 2vw;
 }
 .product > button{
   background-color: #f1c40f;
